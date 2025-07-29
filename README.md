@@ -1,8 +1,7 @@
 # WSABuilds: SukiSU Ultra
-<img align="left" src="https://raw.githubusercontent.com/Young-Six-6/WSA-SukiSU-Ultra/refs/heads/main/introduce_sources/icon.jpg" width="50%"/>
-#  
-<br><br><br><br><br><br><br><br>
-# How to use
+<img align="middle" src="https://raw.githubusercontent.com/Young-Six-6/WSA-SukiSU-Ultra/refs/heads/main/introduce_sources/icon.jpg" width="50%"/>
+
+## How to use
 If you have a .zip from project "WsaBulid" <br><br>
 Just replace the file "WSA_2407.40000.4.0_x64.zip/Tools/kernel" with "WSA_2407,40000,4,0_x86_64_kernel" in this project.(Don't forget to rename it)<br><br>
 If you don't have a .zip from project "WsaBulid" <br><br>
