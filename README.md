@@ -12,5 +12,5 @@ Download one from Releases in this repository(I'll upload one later)<br>
 # MoreQuestions
 If you have any questions,please read the documentation in [WsaBulid](https://github.com/MustardChef/WSABuilds/)
 
-# Prove that this is true
+# Prove that this is real
 <img align="left" src="https://raw.githubusercontent.com/Young-Six-6/WSA-SukiSU-Ultra/refs/heads/main/introduce_sources/pic1.png" width="50%"/>
